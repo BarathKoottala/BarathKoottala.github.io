@@ -1,0 +1,4 @@
+#Ignore Images and Editor Files
+components/img/
+.vscode/
+.DS_Store
